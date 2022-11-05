@@ -36,7 +36,7 @@ class FirstPage extends StatelessWidget {
             'Pass Data',
             style: TextStyle(
               fontWeight: FontWeight.bold,
-              fontSize: 30,
+              fontSize: 14,
             )
           ))
         ]
